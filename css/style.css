@@ -38,7 +38,7 @@ header {
 
 nav {
     font-size: x-large;
-    
+    padding-left: 20%;
 }
 
 main {
@@ -51,4 +51,5 @@ footer {
 
 a {
     text-decoration: none;
+    margin-left: 20%;
 }
