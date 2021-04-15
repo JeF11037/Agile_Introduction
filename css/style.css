@@ -1,0 +1,54 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    height: 100%;
+    width: 100%;
+}
+
+body {
+    height: 100%;
+    width: 100%;
+    background-color: blanchedalmond;
+}
+
+header, footer, nav {
+    height: 10%;
+    background-color: wheat;
+}
+
+main {
+    height: 70%;
+}
+
+header > h1, footer > p {
+    text-align: center;
+}
+
+header {
+    letter-spacing: 1rem;
+    padding-top: 1rem;
+    text-decoration: underline;
+    text-shadow: 2px 2px black;
+    color: snow;
+}
+
+nav {
+    font-size: x-large;
+    
+}
+
+main {
+
+}
+
+footer {
+
+}
+
+a {
+    text-decoration: none;
+}
